@@ -1,4 +1,4 @@
-CongCN RBAC Manager for Yii 2
+Congcn RBAC Manager for Yii 2
 ======================
 
 
